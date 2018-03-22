@@ -1,4 +1,4 @@
 function makeArray(){
-  onst array = [];
+  const array = [];
   const t = Math.floor(Math.random() * 10);
 }
