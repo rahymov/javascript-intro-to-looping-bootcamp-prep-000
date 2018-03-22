@@ -1,1 +1,3 @@
-function forLoop()
+function forLoop(){
+  for
+}
