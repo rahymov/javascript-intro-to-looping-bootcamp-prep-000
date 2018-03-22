@@ -3,5 +3,8 @@ function forLoop(array){
     if(array === 0){
       array.push(`I am 0 strange loop.`);
     }
+    else {
+      
+    }
   }
 }
