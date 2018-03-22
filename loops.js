@@ -1,3 +1,3 @@
 function forLoop(){
-  for
+  for(i=0; i < 25; i++)
 }
