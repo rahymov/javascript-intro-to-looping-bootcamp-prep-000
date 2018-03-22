@@ -1,5 +1,7 @@
 function forLoop(array){
   for(i=0; i < 25; i++){
-    if(array === 0)
+    if(array === 0){
+      
+    }
   }
 }
