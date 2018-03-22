@@ -11,5 +11,5 @@ function forLoop(array){
 }
 
 function whileLoop(n){
-  while()
+  while(array === n)
 }
